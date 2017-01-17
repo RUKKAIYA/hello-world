@@ -1,0 +1,77 @@
+form{
+	width:800px;
+	height:1000px;
+	border:5px;
+	padding:10px;
+	align:center;
+	background-color:red;
+	
+}
+body{
+	padding:25px;
+	margin:25px solid black;
+	background-color:silver;
+	font-size:24px;
+	
+}
+
+*{
+	margin:0px;
+	padding:0px;
+	text-align:center;
+
+	
+}
+
+header{
+	width:100%;
+	height: 50px;
+	background-color:#222222;
+	margin-bottom:20px;
+	
+}
+nav ul {
+	float:right;
+	margin-top:20px;
+	margin-right:60px;
+	
+}
+
+nav ul li {
+	
+	list-style:none;
+	float:right;
+	margin-right:20px;
+	
+}
+nav ul li a{
+	
+	color:white;
+	font-family: Arial;
+	font-size:18px;
+	
+}
+
+nav ul form {
+	float:right;
+	
+}
+
+nav ul form input {
+	float:left;
+	 border:gray;
+	 font-size:18px;
+	 margin-right:6px;
+}
+
+nav ul form button{
+	float:right;
+	 border:none;
+	 margin-right:20px;
+	 background-color:white;
+	 cursor:pointer;
+	 font-size:18px;
+
+	
+}
+
